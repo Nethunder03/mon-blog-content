@@ -1,6 +1,7 @@
 ---
 slug: cybersecurity-ai
 date: 2023-07-20
+readTime: "5 min read"
 tags: [ai, security]
 title: "The Role of AI in Cybersecurity"
 image: https://images.unsplash.com/photo-1620712943543-bcc4688e7485
